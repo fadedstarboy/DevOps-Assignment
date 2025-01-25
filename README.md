@@ -1,4 +1,4 @@
-# devops-assignment-01
+# assignment-01
 ## Instructions:
 - Create a backend service (preferably in Nodejs or Python) that will perform the following things:
 - Create REST APIs to perform CRUD operations on the database
@@ -7,7 +7,7 @@
 - Setup CI to build a docker image whenever code is pushed on the “main” branch (can use GitHub, Gitlab, etc.)
 
 
-# devops-assignment-02
+# assignment-02
 ## Instructions:
 - Create a backend service (preferably in Nodejs or Python) that will perform the following things:
 - Create REST APIs to perform CRUD operations
@@ -15,7 +15,7 @@
 - Application should be dockerized
 - Setup CI to build a docker image whenever code is pushed on the “main” branch (can use GitHub, Gitlab, etc.)
 
-# devops-assignment-03
+# assignment-03
 ## Instructions:
 - Create a backend service (preferably in Nodejs or Python) that will perform the following things:
 - Create REST APIs to perform CRUD operations
